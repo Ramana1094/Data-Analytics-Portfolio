@@ -4,14 +4,14 @@ Hello World! I am Ramana. I have Bachelors in Engineering (ECE) and a Masters in
 
 In this portfolio, I have included and will be adding a variety of my data analysis projects which showcase my skills and understanding in Python, MS Excel, SQL, Statistics and Tableau. Through these projects, I have developed a solid understanding of data cleaning, preparation, merging, statistical analysis, interpretation and visualization. I hope you find my portfolio to be informative and engaging, and I welcome any opportunity to discuss my qualifications further with you. 
 
-You can find my CV [here]().
+You can find my CV [here.](https://github.com/Ramana1094/Data-Analytics-Portfolio/blob/main/Ramana%20Bansal%20cv.pdf) 
 
 ***
 ## PORTFOLIO PROJECTS:
 
 ### Bank Loan Case Study
 
-**Code**: [Bank Loan Case Study](https://github.com/Ramana1094/Data-Analytics-Portfolio/blob/main/Portfolio%20projects/Bank%20Loan%20Case%20Study.ipynb)
+**Code (Github)**: [Bank Loan Case Study](https://github.com/Ramana1094/Data-Analytics-Portfolio/blob/main/Portfolio%20projects/Bank%20Loan%20Case%20Study.ipynb)
 
 **Colab Notebook** : [Bank Loan Case Study.ipynb](https://colab.research.google.com/drive/1GTY55k2iVmZxsA76GntnEtiydOlBDieP?usp=sharing)
 
@@ -27,7 +27,9 @@ You can find my CV [here]().
 
 ### Car Features and Price-Profitability
 
-**Excel Workbook**: [Car Features and Price-Profitability.xlsx](https://docs.google.com/spreadsheets/d/1oL4NCyzQplWUS3QRmcGUSUAC-H1b5K3i/edit?usp=sharing&ouid=108908340523953886832&rtpof=true&sd=true)
+**Project Workbook (Github)**: [Car Features and Price-Profitability.xlsx](https://github.com/Ramana1094/Data-Analytics-Portfolio/blob/main/Portfolio%20projects/Car_Features%20and%20Price-Profitability.xlsx)
+
+**Excel Workbook (drive link)**: [Car Features and Price-Profitability.xlsx](https://docs.google.com/spreadsheets/d/1oL4NCyzQplWUS3QRmcGUSUAC-H1b5K3i/edit?usp=sharing&ouid=108908340523953886832&rtpof=true&sd=true)
 
 **Document**: [Car Features and Price-Profitability.pdf](https://drive.google.com/file/d/1Bq5rMy2WZBMQGuuiFLCboCBTJ5LpumfI/view?usp=sharing) 
 
@@ -41,7 +43,9 @@ You can find my CV [here]().
 
 ### IMDB Movie Analysis
 
-**Excel Workbook**: [IMDB Movies project worksheet.xlsx](https://docs.google.com/spreadsheets/d/1A5qgkcDipouQvBPcIa8JAuFOOQ9nANrq/edit?usp=sharing&ouid=108908340523953886832&rtpof=true&sd=true)
+**Project Workbook (Github)**: [IMDB Movies project worksheet.xlsx](https://github.com/Ramana1094/Data-Analytics-Portfolio/blob/main/Portfolio%20projects/IMDB_Movies_project_worksheet.xlsx)
+
+**Excel Workbook (drive link)**: [IMDB Movies project worksheet.xlsx](https://docs.google.com/spreadsheets/d/1A5qgkcDipouQvBPcIa8JAuFOOQ9nANrq/edit?usp=sharing&ouid=108908340523953886832&rtpof=true&sd=true)
 
 **Document** : [IMDB Movies Analysis.pdf](https://drive.google.com/file/d/1y8Dp13DuPGTIbFZDNM4IUDmi567cYrlV/view?usp=sharing)
 
