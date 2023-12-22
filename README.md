@@ -11,7 +11,9 @@ You can find my CV [here]().
 
 ### Bank Loan Case Study
 
-**Code**: [Bank Loan Case Study.ipynb](https://github.com/Ramana1094/Data-Analytics-Portfolio/blob/main/Portfolio%20projects/Bank%20Loan%20Case%20Study.ipynb)
+**Code**: [Bank Loan Case Study](https://github.com/Ramana1094/Data-Analytics-Portfolio/blob/main/Portfolio%20projects/Bank%20Loan%20Case%20Study.ipynb)
+
+**Colab Notebook** : [Bank Loan Case Study.ipynb](https://colab.research.google.com/drive/1GTY55k2iVmZxsA76GntnEtiydOlBDieP?usp=sharing)
 
 **Document** :[Bank Loan Case Study.pdf](https://drive.google.com/file/d/1rkXrEJ3tZ5saB_B8-SEb_t1iZUeKcNXb/view?usp=sharing)
 
@@ -21,11 +23,11 @@ You can find my CV [here]().
  
 **Skills**: Data Cleaning, Data Merging, Exploratory Data Analysis (EDA), Univariate/Bivariate/Multivariate Analysis, Correlation Matrices, Data Visualization.
 
-**Technology**: Jupyter Notebook, Python, Pandas, Numpy, Matplotlib.
+**Technology**: Google Colab, Python, Pandas, Numpy, Matplotlib.
 
 ### Car Features and Price-Profitability
 
-**Code**: [Car Features and Price-Profitability.xlsx](https://github.com/Ramana1094/Data-Analytics-Portfolio/blob/main/Portfolio%20projects/Car_Features%20and%20Price-Profitability.xlsx)
+**Excel Workbook**: [Car Features and Price-Profitability.xlsx](https://docs.google.com/spreadsheets/d/1oL4NCyzQplWUS3QRmcGUSUAC-H1b5K3i/edit?usp=sharing&ouid=108908340523953886832&rtpof=true&sd=true)
 
 **Document**: [Car Features and Price-Profitability.pdf](https://drive.google.com/file/d/1Bq5rMy2WZBMQGuuiFLCboCBTJ5LpumfI/view?usp=sharing) 
 
@@ -39,7 +41,7 @@ You can find my CV [here]().
 
 ### IMDB Movie Analysis
 
-**Code**: [IMDB Movies project worksheet.xlsx](https://github.com/Ramana1094/Data-Analytics-Portfolio/blob/main/Portfolio%20projects/IMDB_Movies_project_worksheet.xlsx)
+**Excel Workbook**: [IMDB Movies project worksheet.xlsx](https://docs.google.com/spreadsheets/d/1A5qgkcDipouQvBPcIa8JAuFOOQ9nANrq/edit?usp=sharing&ouid=108908340523953886832&rtpof=true&sd=true)
 
 **Document** : [IMDB Movies Analysis.pdf](https://drive.google.com/file/d/1y8Dp13DuPGTIbFZDNM4IUDmi567cYrlV/view?usp=sharing)
 
