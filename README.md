@@ -4,7 +4,7 @@ Hello World! I am Ramana. I have Bachelors in Engineering (ECE) and a Masters in
 
 In this portfolio, I have included and will be adding a variety of my data analysis projects which showcase my skills and understanding in Python, MS Excel, SQL, Statistics and Tableau. Through these projects, I have developed a solid understanding of data cleaning, preparation, merging, statistical analysis, interpretation and visualization. I hope you find my portfolio to be informative and engaging, and I welcome any opportunity to discuss my qualifications further with you. 
 
-You can find my CV [here.](https://github.com/Ramana1094/Data-Analytics-Portfolio/blob/main/Ramana%20Bansal%20cv.pdf) 
+You can find my CV [here.](https://github.com/Ramana1094/Data-Analytics-Portfolio/blob/4cd59a34a749cf2589b472adc8da2cff4f634ae3/Ramana%20Bansal%20cv.pdf) 
 
 ***
 ## PORTFOLIO PROJECTS:
