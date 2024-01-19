@@ -41,6 +41,23 @@ You can find my CV [here.](https://github.com/Ramana1094/Data-Analytics-Portfoli
 
 **Technology**: MS Excel, Functions, Pivot Tables, Charts/Plots.
 
+### Metric Analysis
+
+**SQL Worksheet (Github)**: [MetricAnalysis.sql](https://github.com/Ramana1094/Data-Analytics-Portfolio/blob/e84ff4e66dc27429f4d19b6df498def72976ff60/Portfolio%20projects/MetricAnalysis.sql)
+
+**Document**: [Metric Analysis.pdf](https://github.com/Ramana1094/Data-Analytics-Portfolio/blob/e84ff4e66dc27429f4d19b6df498def72976ff60/Portfolio%20projects/Metric%20Analysis.pdf) 
+
+**Goal**: To analyze the growth and engagement metrics of a digital communication tool.
+
+**Description**: The aim of the project is to investigate the user metrics of a product through the analysis of user engagement, growth, retention, etc. We have been provided with relational database regarding the sign up, logins, and other engagement activity of users with the product as well as relevant details regarding users. The tables provided are:
+•	users: Contains one row per user, with descriptive information about that user’s account.
+•	events: Contains one row per event, where an event is an action that a user has taken (e.g., login, messaging, search).
+•	email_events: Contains events specific to the sending of emails
+
+**Skills**: SQL, DML, Aggregators, CASE WHEN, Window functions, Inline query.
+
+**Technology**: MySQL.
+
 ### IMDB Movie Analysis
 
 **Project Workbook (Github)**: [IMDB Movies project worksheet.xlsx](https://github.com/Ramana1094/Data-Analytics-Portfolio/blob/main/Portfolio%20projects/IMDB_Movies_project_worksheet.xlsx)
